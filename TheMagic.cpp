@@ -6,10 +6,10 @@ int main() {
     int num1, num2;
     
     // Prompt the user to enter two values
-    cout << "Enter the first value: ";
+    cout << "Enter the first value here: ";
     cin >> num1;
     
-    cout << "Enter the second value: ";
+    cout << "Enter the second value here: ";
     cin >> num2;
 
     // Perform an operation to ensure the result is always 11
